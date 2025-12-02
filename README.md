@@ -54,13 +54,21 @@
 
 src/
 CameraLock.lua – фиксирует камеру для игрового поля
+
 DisableDefaultGUI.lua – отключает стандартные интерфейсы Roblox (HUD)
+
 HidingPlayer.lua – скрывает персонажа игрока
+
 MainUIScript.lua – логика пользовательского интерфейса
+
 Music.lua – управление фоновой музыкой
+
 ScoreSave.lua – сохранение и загрузка рекорда игрока
+
 TetrisClient.lua – основная логика Тетриса (движение, вращение, гравитация)
+
 TetrisUIServer.lua – управление UI и серверные события
+
 
 Tetris.rbxlx – основной файл игры Roblox
 README.md
